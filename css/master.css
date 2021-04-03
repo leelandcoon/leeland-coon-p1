@@ -1,0 +1,25 @@
+body {
+    font-family: 'Dela Gothic One', sans-serif;
+    color: rgb(0, 44, 139);
+    background-color: lightgray;
+    margin: 2em 2em 0em 2em;
+}
+
+h1 {
+    color: rgb(0, 44, 139);
+    background-color: #eee;
+}
+
+
+#banner{
+    width: 100%;
+    text-align: left;
+}
+
+table{
+    border: none;
+    background-color: lightskyblue;
+    color: black;
+    border-spacing: 2em .5em;
+}
+

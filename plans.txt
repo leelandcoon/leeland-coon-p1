@@ -1,0 +1,5 @@
+The plan is to create a weather site.
+
+Features include listing the weather for the current location. 
+Ideally down the line it would use an api to get actual data but for now i just used 
+variable injection like project 4.
